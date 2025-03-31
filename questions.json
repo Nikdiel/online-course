@@ -1,0 +1,126 @@
+{
+    "eng": [
+      {
+        "title": "Английский для начинающих",
+        "question": "Какое слово переводится как 'кошка'?",
+        "options": {
+          "a": "Dog",
+          "b": "Cat",
+          "c": "Mouse"
+        },
+        "answer": "b"
+      },
+      {
+        "question": "Как спросить 'Как дела?' на английском?",
+        "options": {
+          "a": "How are you?",
+          "b": "What is your name?",
+          "c": "Where do you live?"
+        },
+        "answer": "a"
+      },
+      {
+        "question": "Выберите правильный перевод фразы 'I am happy'.",
+        "options": {
+          "a": "Я голоден",
+          "b": "Я счастлив",
+          "c": "Я уставший"
+        },
+        "answer": "b"
+      }
+    ],
+  
+    "deu": [
+      {
+        "title": "Немецкий язык",
+        "question": "Как сказать 'Привет' по-немецки?",
+        "options": {
+          "a": "Hallo",
+          "b": "Bonjour",
+          "c": "Ciao"
+        },
+        "answer": "a"
+      },
+      {
+        "question": "Как переводится 'Danke'?",
+        "options": {
+          "a": "Пожалуйста",
+          "b": "Спасибо",
+          "c": "До свидания"
+        },
+        "answer": "b"
+      },
+      {
+        "question": "Как спросить 'Как вас зовут?' на немецком?",
+        "options": {
+          "a": "Wie heißt du?",
+          "b": "Wie alt bist du?",
+          "c": "Wo wohnst du?"
+        },
+        "answer": "a"
+      }
+    ],
+  
+    "py": [
+      {
+        "title": "Основы Python",
+        "question": "Как объявить переменную в Python?",
+        "options": {
+          "a": "let x = 10;",
+          "b": "var x = 10;",
+          "c": "x = 10"
+        },
+        "answer": "c"
+      },
+      {
+        "question": "Какой оператор используется для вывода данных?",
+        "options": {
+          "a": "echo",
+          "b": "print()",
+          "c": "display()"
+        },
+        "answer": "b"
+      },
+      {
+        "question": "Как создать список в Python?",
+        "options": {
+          "a": "list = {1, 2, 3}",
+          "b": "list = [1, 2, 3]",
+          "c": "list = (1, 2, 3)"
+        },
+        "answer": "b"
+      }
+    ],
+  
+    "web": [
+      {
+        "title": "Веб-разработка", 
+        "question": "Какой тег используется для заголовка первого уровня?",
+        "options": {
+          "a": "<h1>",
+          "b": "<title>",
+          "c": "<head>"
+        },
+        "answer": "a"
+      },
+      {
+        "question": "Какое CSS-свойство отвечает за цвет текста?",
+        "options": {
+          "a": "text-color",
+          "b": "color",
+          "c": "background-color"
+        },
+        "answer": "b"
+      },
+      {
+        "question": "Как объявить функцию в JavaScript?",
+        "options": {
+          "a": "function myFunction() {}",
+          "b": "def myFunction() {}",
+          "c": "func myFunction() {}"
+        },
+        "answer": "a"
+      }
+    ]
+  }
+  

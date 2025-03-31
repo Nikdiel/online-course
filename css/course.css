@@ -1,0 +1,49 @@
+.course-page {
+    text-align: center;
+    padding: 50px;
+    background: white;
+    margin: 50px auto;
+    width: 60%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.course-page h1 {
+    color: #333;
+}
+
+.course-page p {
+    color: #555;
+    font-size: 18px;
+}
+
+.lesson-list {
+    text-align: left;
+    display: inline-block;
+    margin: 20px 0;
+    padding: 0;
+    list-style: none;
+}
+
+.lesson-list li {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.btn {
+    display: block;
+    width: 10em;
+    margin-top: 20px;
+    margin: auto;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #0056b3;
+}
